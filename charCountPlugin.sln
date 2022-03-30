@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "charCountPlugin", ".", "{2C7F98B9-E5D6-4D11-BEC7-1D808A79FCD2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63661"
+		Debug.AspNetCompiler.PhysicalPath = "..\charCountPlugin\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63661\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63661"
+		Release.AspNetCompiler.PhysicalPath = "..\charCountPlugin\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63661\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63661"
+		SlnRelativePath = "..\charCountPlugin\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7F98B9-E5D6-4D11-BEC7-1D808A79FCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7F98B9-E5D6-4D11-BEC7-1D808A79FCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {398D19F1-1563-431D-A295-E3A75AE59917}
+	EndGlobalSection
+EndGlobal
